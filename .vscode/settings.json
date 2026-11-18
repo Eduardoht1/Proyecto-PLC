@@ -1,5 +1,5 @@
 {
     "git.autofetch": "all",
     "git.postCommitCommand": "sync",
-    "git.autofetchPeriod": 60
+    "git.autofetchPeriod": 30
 }
